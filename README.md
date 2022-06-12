@@ -14,15 +14,15 @@ As part of my current role, I provide custom analyses and deliver data, results 
 
 ### Skills Overview:
 
-- &#x1F4BB; &nbsp; R | BASh | Python | SQL
+- &#x1F4BB; &nbsp; R • BASh • Python • SQL
 
-- &#x1F310; &nbsp; HTML | CSS | Jekyll
+- &#x1F310; &nbsp; HTML • CSS • Jekyll
 
-- &#x1F6E2; &nbsp; SQL | PowerBI | Excel
+- &#x1F6E2; &nbsp; SQL • PowerBI • Excel
 
-- &#x1F5A5; &nbsp; R Shiny | Shiny Dashboard | Plotly
+- &#x1F5A5; &nbsp; R Shiny • Shiny Dashboard • Plotly
 
-- &#x1F6E0; &nbsp; Git | Markdown | Conda | Singularity
+- &#x1F6E0; &nbsp; Git • Markdown • Conda • Singularity
 
 <h2 align="center">Contact Me</h2>
 

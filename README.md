@@ -6,7 +6,7 @@
 
 I have spent over 9 years working in the academic research setting. I have a strong data analytical background and extensive experience in analysing quantitative data resulting from a wide variety of technologies including next-generation sequencing, microarray, NanoString nCounter and high-throughput RT-qPCR array profiling platforms, amongst various others.
 
-I am skilled in development and deployment of scalable, automated cloud-based or high-performance computing (HPC) workflows, as well as being proficient in acquiring, cleaning and wrangling data from a broad range of sources, undertaking exploratory data analyses, using descriptive and inferential statistical methods and best-practice data visualisation techniques.
+I am skilled in development and deployment of scalable, automated cloud-based or high-performance computing (HPC) workflows, as well as being proficient in acquiring, cleaning and wrangling data from a broad range of sources, undertaking exploratory data analyses, using descriptive and inferential statistical methods and best-practice data visualisation techniques. Check out my <a href="https://blog.lewisdoesdata.com/portfolio/" target="_blank">portfolio</a> and <a href="https://blog.lewisdoesdata.com" target="_blank">blog</a> to see some of the things I have done in the past.
 
 I am currently a member of the <a href="https://sbc.shef.ac.uk./" target="_blank">Sheffield Bioinformatics Core</a> working on a project aiming to create a mutational map of non-coding genomic regions for the 100,000 Genome Project for bladder cancer and contributing bioinformatics capability to the Genotype of Urothelial cancer (GUSTO) clinical trial. I am involved in assessing, testing, and implementing best practice methods for genomic data analysis, as well as contributing to the maintenance of well-curated, highly structured, transparent resources for integrating genomic and clinical data.
 
@@ -14,15 +14,15 @@ As part of my current role, I provide custom analyses and deliver data, results 
 
 ### Skills Overview:
 
-- &#x1F4BB; &nbsp; R • BASh • Python • SQL
+- &#x1F4BB; &nbsp; R • Unix Shell (BASh) • Python • SQL
 
 - &#x1F310; &nbsp; HTML • CSS • Jekyll
 
-- &#x1F6E2; &nbsp; SQL • PowerBI • Excel
+- &#x1F6E2; &nbsp; SQL • Excel • PowerBI
 
-- &#x1F5A5; &nbsp; R Shiny • Shiny Dashboard • Plotly
+- &#x1F5A5; &nbsp; R Shiny • Shiny Dashboard • Plotly • GraphPad Prism
 
-- &#x1F6E0; &nbsp; Git • Markdown • Conda • Singularity
+- &#x1F6E0; &nbsp; Git • Markdown • Nextflow • Conda • Docker • Singularity
 
 <h2 align="center">Contact Me</h2>
 

@@ -4,13 +4,13 @@
 
 ## Cancer Bioinformatician and Data Scientist
 
-I have spent over 9 years working in the academic research setting. I have a strong data analytical background and extensive experience in analysing quantitative data resulting from a wide variety of technologies including next-generation sequencing, microarray, NanoString nCounter and high-throughput RT-qPCR array profiling platforms, amongst various others.
+I have over nine years of experience working in the academic research setting, analysing quantitative data from a wide variety of technologies including next-generation sequencing, microarray, NanoString nCounter<sup>®</sup> and high-throughput RT-qPCR array profiling platforms, amongst many others.
 
-I am skilled in development and deployment of scalable, automated cloud-based or high-performance computing (HPC) workflows, as well as being proficient in acquiring, cleaning and wrangling data from a broad range of sources, undertaking exploratory data analyses, using descriptive and inferential statistical methods and best-practice data visualisation techniques. Check out my <a href="https://blog.lewisdoesdata.com/portfolio/" target="_blank">portfolio</a> and <a href="https://blog.lewisdoesdata.com" target="_blank">blog</a> to see some of the things I have done in the past.
+I am skilled in development and deployment of scalable, automated cloud-based or high-performance computing (HPC) workflows, as well as being proficient in acquiring, cleaning and wrangling data from a broad range of sources, computing descriptive metrics and undertaking exploratory data analyses, implementing inferential statistical methods, and utilising best practice graphical modelling and data visualisation techniques. Check out my <a href="https://blog.lewisdoesdata.com/portfolio/" target="_blank">portfolio</a>, my <a href="https://blog.lewisdoesdata.com" target="_blank">blog</a> or my <a href="https://www.linkedin.com/in/lewis-quayle" target="_blank">LinkedIn</a> profile to see some of the things I have done in the past.
 
-I am currently a member of the <a href="https://sbc.shef.ac.uk./" target="_blank">Sheffield Bioinformatics Core</a> working on a project aiming to create a mutational map of non-coding genomic regions for the 100,000 Genome Project for bladder cancer and contributing bioinformatics capability to the Genotype of Urothelial cancer (GUSTO) clinical trial. I am involved in assessing, testing, and implementing best practice methods for genomic data analysis, as well as contributing to the maintenance of well-curated, highly structured, transparent resources for integrating genomic and clinical data.
+My current research activity is centered on a project aiming to create a mutational map of the non-coding regions of patient genomes for the bladder cancer arm of the <a href="https://www.genomicsengland.co.uk/initiatives/100000-genomes-project" target="_blank">100,000 Genomes Project</a>. I am also contributing bioinformatics capability to the <a href="https://fundingawards.nihr.ac.uk/award/NIHR128103" target="_blank">Genotype of Urothelial Cancer - Stratified Treatment and Oncological outcomes (GUSTO) phase II clinical study</a>. These roles involve assessing, testing, and implementing best practice methods for genomic data analysis, as well as contributing to the maintenance of well-curated, highly structured and transparent resources for integrating genomic and clinical data.
 
-As part of my current role, I provide custom analyses and deliver data, results and reports detailing quality control and analysis procedures carried out in secure containerised environments to users of the Sheffield Bioinformatics Core Facility. I am involved in supporting the provision of best-practice training and workshops in bioinformatics techniques and next-generation sequencing activities to laboratory scientists. I also assist and guide investigators across the university in statistically sound experimental design, interpretation of results, and grant or manuscript writing where this requires extensive bioinformatics input.
+I am currently a member of the <a href="https://sbc.shef.ac.uk./" target="_blank">Sheffield Bioinformatics Core Facility</a>. In this role, I am expected to deliver custom analyses, processed experimental data, results, and reports detailing quality control procedures and workflows carried out in secure containerised environments to core facility users. I am also involved in supporting the provision of best-practice training and workshops in next-generation sequencing and bioinformatics techniques to laboratory scientists, assisting investigators across the university in statistically sound experimental design, aiding interpretation of results, and grant or manuscript writing where these require extensive bioinformatics input.
 
 ### Skills Overview:
 
@@ -23,6 +23,8 @@ As part of my current role, I provide custom analyses and deliver data, results 
 - &#x1F5A5; &nbsp; R Shiny • Shiny Dashboard • Plotly • GraphPad Prism
 
 - &#x1F6E0; &nbsp; Git • Markdown • Nextflow • Conda • Docker • Singularity
+
+<br>
 
 <h2 align="center">Contact Me</h2>
 

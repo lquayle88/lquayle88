@@ -4,7 +4,7 @@
 
 ## Cancer Bioinformatician and Data Scientist
 
-I have over nine years of experience working in the academic research setting, analysing quantitative data from a wide variety of technologies including next-generation sequencing, microarray, NanoString nCounter<sup>®</sup> and high-throughput RT-qPCR array profiling platforms, amongst many others.
+I have over nine years of experience working in the academic research setting analysing quantitative data from a wide variety of technologies, including next-generation sequencing, microarray, NanoString nCounter® and high-throughput RT-qPCR array profiling platforms, amongst others.
 
 I am skilled in development and deployment of scalable, automated cloud-based or high-performance computing (HPC) workflows, as well as being proficient in acquiring, cleaning and wrangling data from a broad range of sources, computing descriptive metrics and undertaking exploratory data analyses, implementing inferential statistical methods, and utilising best practice graphical modelling and data visualisation techniques. Check out my <a href="https://blog.lewisdoesdata.com/portfolio/" target="_blank">portfolio</a>, my <a href="https://blog.lewisdoesdata.com" target="_blank">blog</a> or my <a href="https://www.linkedin.com/in/lewis-quayle" target="_blank">LinkedIn</a> profile to see some of the things I have done in the past.
 
@@ -25,11 +25,8 @@ I am currently a member of the <a href="https://sbc.shef.ac.uk./" target="_blank
 - &#x1F6E0; &nbsp; Git • Markdown • Nextflow • Conda • Docker • Singularity
 
 <br>
-
 <h2 align="center">Contact Me</h2>
-
 <p align="center">
-  
   <a  href="https://www.linkedin.com/in/lewis-quayle" target="_blank" >
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn Profile" height="30" width="30">
   </a>
@@ -37,4 +34,5 @@ I am currently a member of the <a href="https://sbc.shef.ac.uk./" target="_blank
   <a  href="mailto:drlquayle@gmail.com" target="_blank" >
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail Address" height="30" width="30">
   </a>
+  
   

@@ -1,6 +1,6 @@
 # Lewis Quayle, PhD
 
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+<img align='right' src="https://github.com/lquayle88/lquayle88/blob/main/lquayle.png?raw=true" width="325">
 
 ## Cancer Bioinformatician and Data Scientist
 

@@ -3,9 +3,9 @@
      width="auto">
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lquayle88&langs_count=5&theme=github_dark&layout=compact"
-     align="left"
      width="auto">
-<br><br>
+<br>
+<br>
 
 # Lewis Quayle, PhD
 

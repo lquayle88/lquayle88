@@ -1,10 +1,11 @@
 <img src="https://github-readme-stats.vercel.app/api/?username=lquayle88&count_private=true&theme=github_dark&showicons=true&hide=stars"
      align="left"
      width="auto">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lquayle88&langs_count=5&theme=github_dark&layout=compact" width="auto">
 <br>
-<br>
-<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lquayle88&langs_count=5&theme=github_dark&layout=compact"
+     align="left"
+     width="auto">
+<br><br>
 
 # Lewis Quayle, PhD
 

@@ -5,7 +5,6 @@
 <br>
 <br>
 <br>
-<br>
 
 # Lewis Quayle, PhD
 

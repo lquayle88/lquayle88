@@ -1,3 +1,12 @@
+<img src="https://github-readme-stats.vercel.app/api/?username=lquayle88&count_private=true&theme=github_dark&showicons=true&hide=stars"
+     align="left"
+     width="auto">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lquayle88&langs_count=5&theme=github_dark&layout=compact" width="auto">
+<br>
+<br>
+<br>
+<br>
+
 # Lewis Quayle, PhD
 
 <img align='right' src="https://github.com/lquayle88/lquayle88/blob/main/lquayle.png?raw=true" width="325">
@@ -37,4 +46,5 @@ I am currently a member of the <a href="https://sbc.shef.ac.uk./" target="_blank
   <a  href="mailto:drlquayle@gmail.com" target="_blank" >
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30">
   </a>
+  
   

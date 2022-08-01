@@ -27,12 +27,14 @@ I am currently a member of the <a href="https://sbc.shef.ac.uk./" target="_blank
 <br>
 <h2 align="center">Contact Me</h2>
 <p align="center">
+  <a  href="https://blog.lewisdoesdata.com/" target="_blank" >
+    <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" height="30" width="30">
+  </a>
   <a  href="https://www.linkedin.com/in/lewis-quayle" target="_blank" >
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="30" width="30">
   </a>
   &nbsp;
   <a  href="mailto:drlquayle@gmail.com" target="_blank" >
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail Address" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30">
   </a>
-  
   

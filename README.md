@@ -1,21 +1,8 @@
-<img src="https://github-readme-stats.vercel.app/api/?username=lquayle88&count_private=true&theme=github_dark&showicons=true&hide=stars"
-     align="left"
-     width="auto">
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lquayle88&langs_count=5&theme=github_dark&layout=compact"
-     width="auto">
-<br>
-<br>
-
 # Lewis Quayle, PhD
 
-<img align='right' src="https://github.com/lquayle88/lquayle88/blob/main/lquayle.png?raw=true" width="325">
+Hi! I'm Lewis. I work as a cancer bioinformatician and data scientist at the University of Sheffiled (UK) and have almost ten years of experience working in the academic research setting analysing quantitative data from a wide variety of technologies, including next-generation sequencing, microarray, NanoString nCounter® and high-throughput RT-qPCR array profiling platforms, amongst others.
 
-## Cancer Bioinformatician and Data Scientist
-
-I have over nine years of experience working in the academic research setting analysing quantitative data from a wide variety of technologies, including next-generation sequencing, microarray, NanoString nCounter® and high-throughput RT-qPCR array profiling platforms, amongst others.
-
-I am skilled in development and deployment of scalable, automated cloud-based or high-performance computing (HPC) workflows, as well as being proficient in acquiring, cleaning and wrangling data from a broad range of sources, computing descriptive metrics and undertaking exploratory data analyses, implementing inferential statistical methods, and utilising best practice graphical modelling and data visualisation techniques. Check out my <a href="https://blog.lewisdoesdata.com/portfolio/" target="_blank">portfolio</a>, my <a href="https://blog.lewisdoesdata.com" target="_blank">blog</a> or my <a href="https://www.linkedin.com/in/lewis-quayle" target="_blank">LinkedIn</a> profile to see some of the things I have done in the past.
+I am skilled in development and deployment of scalable, automated cloud-based or high-performance computing (HPC) workflows, as well as being proficient in acquiring, cleaning and wrangling data from a broad range of sources, computing descriptive metrics and undertaking exploratory data analyses, implementing inferential statistical methods and models, and utilising best practice data visualisation techniques. Check out my <a href="https://www.lewisdoesdata.com/portfolio/" target="_blank">portfolio</a>, my <a href="https://www.lewisdoesdata.com" target="_blank">website and blog</a> or my <a href="https://www.linkedin.com/in/lewis-quayle" target="_blank">LinkedIn</a> profile to see some of the things I have done in the past.
 
 My current research activity is centered on a project aiming to create a mutational map of the non-coding regions of patient genomes for the bladder cancer arm of the <a href="https://www.genomicsengland.co.uk/initiatives/100000-genomes-project" target="_blank">100,000 Genomes Project</a>. I am also contributing bioinformatics capability to the <a href="https://fundingawards.nihr.ac.uk/award/NIHR128103" target="_blank">Genotype of Urothelial Cancer - Stratified Treatment and Oncological outcomes (GUSTO) phase II clinical study</a>. These roles involve assessing, testing, and implementing best practice methods for genomic data analysis, as well as contributing to the maintenance of well-curated, highly structured and transparent resources for integrating genomic and clinical data.
 
@@ -36,7 +23,7 @@ I am currently a member of the <a href="https://sbc.shef.ac.uk./" target="_blank
 <br>
 <h2 align="center">Contact Me</h2>
 <p align="center">
-  <a  href="https://blog.lewisdoesdata.com/" target="_blank" >
+  <a  href="https://www.lewisdoesdata.com/" target="_blank" >
     <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" height="30" width="30">
   </a>
   <a  href="https://www.linkedin.com/in/lewis-quayle" target="_blank" >

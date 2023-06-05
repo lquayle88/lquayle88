@@ -1,16 +1,16 @@
 # Lewis Quayle, PhD
 
-Hi! I'm Lewis. I work as a cancer bioinformatician and data scientist at the University of Sheffiled (UK) and have almost ten years of experience working in the academic research setting analysing quantitative data from a wide variety of technologies, including next-generation sequencing, microarray, NanoString nCounter® and high-throughput RT-qPCR array profiling platforms, amongst others.
+Hi! My name is Lewis. I'm a data scientist, bioinformatician, cancer researcher and certified programming instructor. I currently work as a senior lecturer in data science and analytics at Sheffield Hallam University (Sheffield, UK) and have almost ten years of experience working in the academic research setting.
 
-I am skilled in development and deployment of scalable, automated cloud-based or high-performance computing (HPC) workflows, as well as being proficient in acquiring, cleaning and wrangling data from a broad range of sources, computing descriptive metrics and undertaking exploratory data analyses, implementing inferential statistical methods and models, and utilising best practice data visualisation techniques. Check out my <a href="https://www.lewisdoesdata.com/portfolio/" target="_blank">portfolio</a>, my <a href="https://www.lewisdoesdata.com" target="_blank">website and blog</a> or my <a href="https://www.linkedin.com/in/lewis-quayle" target="_blank">LinkedIn</a> profile to see some of the things I have done in the past.
+During this time, I have gained experience with a broad variety of analytical workflows, including next-generation sequencing data processing, large-scale clinical data analysis, unsupervised and supervised machine learning model development, text mining, interaction network construction and interrogation, and geospatial data analysis.
 
-My current research activity is centered on a project aiming to create a mutational map of the non-coding regions of patient genomes for the bladder cancer arm of the <a href="https://www.genomicsengland.co.uk/initiatives/100000-genomes-project" target="_blank">100,000 Genomes Project</a>. I am also contributing bioinformatics capability to the <a href="https://fundingawards.nihr.ac.uk/award/NIHR128103" target="_blank">Genotype of Urothelial Cancer - Stratified Treatment and Oncological outcomes (GUSTO) phase II clinical study</a>. These roles involve assessing, testing, and implementing best practice methods for genomic data analysis, as well as contributing to the maintenance of well-curated, highly structured and transparent resources for integrating genomic and clinical data.
+My main programming capability is in R, Unix (BASh), and SQL. I am also proficient in development and deployment of scalable, automated cloud-based or high-performance computing workflows, use of myriad command line tools, containerisation technologies, version control systems, self-service interactive dashboard and web app development, and reporting in several formats.
 
-I am currently a member of the <a href="https://sbc.shef.ac.uk./" target="_blank">Sheffield Bioinformatics Core Facility</a>. In this role, I am expected to deliver custom analyses, processed data, experimental results, and reports detailing quality control procedures and workflows carried out in secure containerised environments to core facility users. I am also involved in supporting the provision of best-practice training and workshops in next-generation sequencing and bioinformatics techniques to laboratory scientists, assisting investigators across the university in statistically sound experimental design, aiding interpretation of results, and grant or manuscript writing where these require extensive bioinformatics input.
+Check out my <a href="https://www.lewisdoesdata.com" target="_blank">website and blog</a> or <a href="https://www.linkedin.com/in/lewis-quayle" target="_blank">LinkedIn</a> profile if you would like to read more about my skills, experience, and current research projects.
 
 ### Skills Overview:
 
-- &#x1F4BB; &nbsp; R • Unix Shell (BASh) • Python • SQL
+- &#x1F4BB; &nbsp; R • Unix Shell (BASh) • SQL
 
 - &#x1F310; &nbsp; HTML • CSS • Jekyll
 

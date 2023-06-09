@@ -1,6 +1,8 @@
 # Lewis Quayle, PhD
 
-Hi! My name is Lewis. I'm a data scientist, bioinformatician, cancer researcher and certified programming instructor. I currently work as a senior lecturer in data science and analytics at Sheffield Hallam University (Sheffield, UK) and have almost ten years of experience working in the academic research setting. During this time, I have gained experience with a broad variety of analytical workflows, including next-generation sequencing data processing, large-scale clinical data analysis, unsupervised and supervised machine learning model development, text mining, interaction network construction and interrogation, geospatial data analysis, and various others.
+Hi! My name is Lewis. I'm a data scientist, bioinformatician, cancer researcher and certified programming instructor. I currently work as a senior lecturer in data science and analytics at Sheffield Hallam University (Sheffield, UK) and have spent over ten years working in the academic research setting.
+
+I am experienced with a broad variety of analytical workflows, including next-generation sequencing data processing, large-scale clinical data analysis, unsupervised and supervised machine learning model development, text mining, interaction network construction and interrogation, geospatial data analysis, and various others.
 
 My main programming capability is in R, Unix (BASh), and SQL. I am also proficient in development and deployment of scalable, automated cloud-based or high-performance computing workflows, use of myriad command line tools, containerisation technologies, version control systems, self-service interactive dashboard and web app development, and reporting in several formats.
 

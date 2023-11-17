@@ -10,13 +10,11 @@ Check out my <a href="https://www.lewisdoesdata.com" target="_blank">website and
 
 ### Skills Overview:
 
-- &#x1F4BB; &nbsp; R • Unix Shell (BASh) • SQL
+- &#x1F4BB; &nbsp; R • Unix Shell (BASh) • MySQL • PostgreSQL
 
 - &#x1F310; &nbsp; HTML • CSS • Jekyll
 
-- &#x1F6E2; &nbsp; SQL • Excel • PowerBI
-
-- &#x1F5A5; &nbsp; R Shiny • Shiny Dashboard • Plotly • GraphPad Prism
+- &#x1F5A5; &nbsp; R Shiny • Shiny Dashboard • Flexdashboard • Plotly
 
 - &#x1F6E0; &nbsp; Git • Markdown • Nextflow • Conda • Docker • Singularity
 
